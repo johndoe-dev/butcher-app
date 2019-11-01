@@ -1,0 +1,11 @@
+{
+    "no-inline-html" : {
+        "allowed_elements" : [ "a", "h1", "h3", "HR", "p", "pre" ]
+    },
+    "line-length" : {
+        "line_length" : 130
+    },
+    "MD033": {
+        "allowed_elements" : [ "a", "h1", "h3", "HR", "p", "pre" ]
+    }
+}
